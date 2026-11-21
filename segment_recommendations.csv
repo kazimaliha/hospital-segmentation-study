@@ -1,0 +1,5 @@
+Segment,Patients,Suggested action,Estimated cost,Estimated benefit,Net benefit,Measurable target
+Frequent High-Value Patients,7115,Care-coordination: follow-up call after each visit and a regular health review,14230.0,17553.0,3323.0,Cut 30-day revisit rate by 5 percentage points; follow-up completion at least 80%
+Lapsed One-Time Patients,27546,Send SMS / call reminders for check-ups to patients who have not visited for years,2755.0,15337.0,12582.0,At least 3% of reminded patients book a visit within 90 days
+Recent Regular Patients,12468,Offer preventive-care / health check-up packages and reminders,2494.0,13543.0,11050.0,Preventive appointment attendance up by 5% in 6 months
+Zero-Billing Patients,24688,Check why these visits show a zero claim (free / exempt services or billing not entered) with the hospital billing team,1000.0,Not estimated,Not estimated,Reason for zero claims confirmed for at least 90% of these patients; unexplained zero-claim visits halved
